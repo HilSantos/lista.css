@@ -1,5 +1,5 @@
 # lista.css
-Criação de um CSS externo para Lista Usuarios.
+Criação de um CSS externo para Lista Usuarios e Lista Produtos.
 
 /* estilo.css */
 
